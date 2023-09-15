@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rell-official/static/css/main.3da0e418.css",
+    "main.js": "/rell-official/static/js/main.78c0960a.js",
+    "index.html": "/rell-official/index.html",
+    "main.3da0e418.css.map": "/rell-official/static/css/main.3da0e418.css.map",
+    "main.78c0960a.js.map": "/rell-official/static/js/main.78c0960a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3da0e418.css",
+    "static/js/main.78c0960a.js"
+  ]
+}
