@@ -1,5 +1,4 @@
 import { Box, Button, ButtonProps, Typography } from '@mui/material'
-import { purple } from '@mui/material/colors';
 import React, { FC } from 'react'
 import styled from 'styled-components';
 
